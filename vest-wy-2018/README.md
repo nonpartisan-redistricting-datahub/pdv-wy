@@ -11,11 +11,11 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 ### Accessible files:
 
 - File: VEST WY 2018 file
-   - Date accessed: 7/15/2021
+   - Date accessed: 7/20/2021
    - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4789399&version=41.0
    - File: `wy_2018.zip`
 - File: VEST documentation file, 2018
-   - Date accessed: 7/15/2021
+   - Date accessed: 7/20/2021
    - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4863187&version=41.0
    - File: `documentation.txt`
 - File: Precinct-level shapefile used by VEST
