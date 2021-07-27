@@ -18,12 +18,9 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
    - Date accessed: 7/20/2021
    - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4863187&version=41.0
    - File: `documentation.txt`
-- File: Precinct-level shapefile used by VEST
-  - Date accessed: 7/15/2021
-  - Link: 
 - File: Precinct Level Election results, 2018
-  - Date accessed: 7/15/2021
-  - Link: 
+  - Date accessed: 7/20/2021
+  - Link: https://sos.wyo.gov/Elections/Docs/2018/2018GeneralResults.aspx
 
 ## File processing:
 
