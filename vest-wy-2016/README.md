@@ -12,7 +12,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 - File: VEST WY 2016 file
    - Date accessed: 7/15/2021
-   - Link: https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/NH5S2I/AMXWTN&version=61.0
+   - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4789392&version=61.0
    - File: `wy_2016.zip`
 - File: VEST documentation file, 2016
    - Date accessed: 7/15/2021
