@@ -21,6 +21,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: Precinct Level Election results, 2018
   - Date accessed: 7/22/2021
   - Link: https://sos.wyo.gov/Elections/Docs/2018/2018GeneralResults.aspx
+  - Note: Selected 'Wyoming General Election Results' under 'Zip File of Data Files'
 - File: Fremont County Shapefile
   - Date accessed: 7/22/2021
   - Link: https://maps.greenwoodmap.com/fremontwy/
