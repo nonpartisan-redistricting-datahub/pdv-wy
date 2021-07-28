@@ -1,6 +1,6 @@
 # vest-wy-2020
 
-Our final election results validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/).
+Our final election results validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2020-wyoming-precinct-and-election-results/).
 
 We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
 
@@ -21,7 +21,12 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: Precinct Level Election results, 2020
   - Date accessed: 7/20/2021
   - Link: https://sos.wyo.gov/Elections/Docs/2020/2020GeneralResults.aspx
-
+  - Note: Selected 'Wyoming General Election Results' under 'Zip File of Data Files'
+- File: Fremont County Shapefile
+  - Date accessed: 7/22/2021
+  - Link: https://maps.greenwoodmap.com/fremontwy/
+  - Note: Selected 'Voter Precincts'
+  
 ## File processing:
 
 `vest-wy-2020-validation.ipynb` is the script that is the basis of the validation report
