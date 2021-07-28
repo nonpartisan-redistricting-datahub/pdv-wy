@@ -1,6 +1,6 @@
 # pdv-wy
 
-The Redistricting Data Hub (RDH) repository to validate our data partners' precinct-level election result shapefiles. The scripts available in this repository are used to write the reports available at [redistrictrictingdatahub.org]([https://redistrictingdatahub.org/](https://redistrictingdatahub.org/)). 
+The Redistricting Data Hub (RDH) repository to validate our data partners' precinct-level election result shapefiles. The scripts available in this repository are used to write the reports available at [redistrictrictingdatahub.org](https://redistrictingdatahub.org/). 
 
 We do not have most of the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
 
